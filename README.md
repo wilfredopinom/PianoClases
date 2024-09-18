@@ -1,23 +1,37 @@
-# PIANO
-npm i gh-pages pendiente de asignar
+# Aplicación web de piano
+Web de practicas que permite tocar el piano con ratón y teclado
 
 ## DESCRIPCIÓN
 
 Este es un ejercicio de clases donde creamos un Piano con sonido
 
+## Tecnologías
 
+# Gestor de paquetes
+- npm
+  # Constructor de aplicaciones
+- vite
+  # Testeo
+- vitest
+
+## Dependencia
+- tonejs
+- gh-pages
+
+# Deploy 
+https://wilfredopinom.github.io/PianoClases/
+
+  
 ## Pasos previos
 
 -  Descarga las dependencias de terceros
 ```
 npm install
 ```
-
 - Monta en modo desarrolla mi app para probarla
 ```
 - npm run dev
 ```
-
 - Construir la aplicacion
 ```
 npm run build
@@ -47,82 +61,32 @@ npm run deploy
 4. Se podra tocar con el teclado del ordenador
 
 
-## tecnologías
-- html
-- css
-- js (vanila)
-- 
-## Gestor de paquetes
+## Tareas
 
-- Npm
+- [x]mostrar una web con las teclas blancas sin sonido
 
-## Constructor de aplicaciones
--  Vite
-  
+- [x]permitir que el usuario puelse teclas y suene
+- [x] añadir las teclas negras
+- [x] permitir que el usuario toque el piano con el teclado del ordenador
+- [x] incorporar sonidos reales
+- [x] refactorizar
+- [x] testear
+- [x] deployar
 
-
-## Sprint 1
-- [ ]mostrar una web con las teclas blancas sin sonido
-
-- [ ]permitir que el usuario puelse teclas y suene
-- [ ] añadir las teclas negras
-- [ ] permitir que el usuario toque el piano con el teclado del ordenador
-- [ ] incorporar sonidos reales
-- [ ] refactorizar
-- [ ] testear
-- [ ] deployar
-## tecnologías
-- html
-- css
-- js (vanila)
-- 
-## Gestor de paquetes
-
-- Npm
-
-## Constructor de aplicaciones
--  Vite
-  
-
-# Deploy 
-https://wilfredopinom.github.io/PianoClases/
-
-
-## Etapas
-
-### Sprint 1
-
-- [x] Crear al estructura del piano 
-- [x] crear las teclas blancas
-- [x] Aplicar estilos con css
-- [x] Dotar de comportamineto con JS
-
-
-### Sprint 2
-- [x] Mejorar la interfaz grafica
-- [x] Colocar las teclas negras
-- [x]  Darle funcionalidad al piano al hacer click
-  
-### Sprint 3
-- [x] Colocarle el sonido
-- [x] Darle funcionalidad al teclado con las teclas de la computadora
-- [x] Deploy
-  
 
 
 - codigo limpio <-- refactorización
 - codigo correcto >-- test
 - codigo optimizado(opcional)
-- codigo flexible <-- refactorización alta coherencia baja conexion
+- codigo flexible <-- refactorización 
 - codigo seguro
-
-
+  
   ## git
   1. git add .
   2. git commit -m "xxx"
   3. git push origin master
   
-  
+ 
   ## Imagen deploy
-![deploy]()
+![deploy](https://github.com/wilfredopinom/PianoClases/blob/a2fa0ef96f23d3a4744c15fdbfd10de2bc59833b/deploy.png)
 
