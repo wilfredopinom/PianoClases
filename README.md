@@ -59,13 +59,7 @@ npm run deploy
 ## Constructor de aplicaciones
 -  Vite
   
-  ## Crea el localHost
 
-## Deploy
-
-
-
- 
 
 ## Sprint 1
 - [ ]mostrar una web con las teclas blancas sin sonido
@@ -91,7 +85,7 @@ npm run deploy
   
 
 # Deploy 
-
+https://wilfredopinom.github.io/PianoClases/
 
 
 ## Etapas
@@ -122,6 +116,7 @@ npm run deploy
 - codigo flexible <-- refactorización alta coherencia baja conexion
 - codigo seguro
 
+
   ## git
   1. git add .
   2. git commit -m "xxx"
@@ -129,5 +124,5 @@ npm run deploy
   
   
   ## Imagen deploy
-![deploy](https://github.com/wilfredopinom/Piano/blob/376c5c116ca6079dcf3e8a87b12bf72f489baf05/deploy.png)
+![deploy]()
 
